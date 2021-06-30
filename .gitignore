@@ -1,0 +1,5 @@
+creds.txt
+data/*
+ghibli/*
+duplicates/*
+*.exe
