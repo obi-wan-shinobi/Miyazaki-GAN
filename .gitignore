@@ -1,6 +1,7 @@
-creds.txt
+*/creds.txt
 data/*
 ghibli/*
 duplicates/*
 *.exe
 *.zip
+checkpoints/*
